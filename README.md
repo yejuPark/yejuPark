@@ -15,9 +15,6 @@
 
 
 
-```
-print('hello world')
-```
 
 :smirk:
 :joy:
