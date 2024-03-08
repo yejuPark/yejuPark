@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=YEJUPARK&fontAlign=50&theme&descAlign=60&descAlignY=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=rect&text=YEJUPARK&fontAlign=50&descAlign=60&descAlignY=50&theme=radical)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
