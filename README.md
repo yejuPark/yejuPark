@@ -1,6 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=YEJUPARK&fontAlign=50&descAlign=60&descAlignY=50&theme=radical)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=600&size=40&duration=1000&pause=5000&color=151FF7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=YJ's+Github)](https://git.io/typing-svg)
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=600&size=20&duration=1000&pause=5000&color=151FF7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Tech+stacks)](https://git.io/typing-svg)
+</div>
+
+
+<h3 align = "center">:computer: Tech stacks :computer:</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
@@ -8,25 +20,25 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-  <br/>
+<br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
+</div>
+
+<br>
+
+<h3 align = "center">:octocat: Tools :octocat:</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-</p>
+</div>
 
-<h3>👩‍💻 My Github Stats 👩‍💻</h3>
+<br>
 
 ![YJ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&hide_title=true&rank_icon=github&theme=dark#gh-dark-mode-only)
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejuPark&layout=compact&theme=dark#gh-dark-mode-only)
-
-
-
-
-:smirk:
-:joy:
-:rage:
