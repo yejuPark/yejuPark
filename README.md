@@ -19,7 +19,7 @@
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-![YJ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YJ&show_icons=true&theme=dark#gh-dark-mode-only)
+![YJ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejuPark&layout=compact)
