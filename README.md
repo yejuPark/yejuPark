@@ -19,11 +19,9 @@
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/yejuPark/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/yejuPark/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-
-![YJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejuPark&layout=compact)
 
