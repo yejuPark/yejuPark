@@ -1,18 +1,14 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=600&size=40&duration=1000&pause=5000&color=151FF7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=YJ's+Github)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=600&size=50&duration=1000&pause=5000&color=000BF7&center=true&vCenter=true&repeat=false&random=false&width=440&height=110&lines=YJ's+Github)](https://git.io/typing-svg)
 </div>
 
 <br>
 
 <div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=300&duration=1000&pause=5000&color=9100F7&center=true&vCenter=true&repeat=false&random=false&width=440&height=40&lines=%F0%9F%92%BB+Tech+stack+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=600&size=20&duration=1000&pause=5000&color=151FF7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Tech+stacks)](https://git.io/typing-svg)
-</div>
-
-
-<h3 align = "center">:computer: Tech stacks :computer:</h3>
-<div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
@@ -28,9 +24,13 @@
 </div>
 
 <br>
+<br>
+<br>
 
-<h3 align = "center">:octocat: Tools :octocat:</h3>
 <div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=300&duration=1000&pause=5000&color=9100F7&center=true&vCenter=true&repeat=false&random=false&width=440&height=40&lines=%F0%9F%A7%B8+Tools+%F0%9F%A7%B8)](https://git.io/typing-svg)
+  
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
