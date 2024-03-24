@@ -18,6 +18,8 @@
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
+![YJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&theme=transparent)
   
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=yejuPark)](https://github.com/yejuPark)
 
