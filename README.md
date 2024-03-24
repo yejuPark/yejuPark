@@ -17,12 +17,12 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3>👩‍💻 My Github Stats 👩‍💻</h3>
 
 ![YJ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejuPark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejuPark&layout=compact&theme=dark#gh-dark-mode-only)
 
 
 
