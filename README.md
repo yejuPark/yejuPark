@@ -31,14 +31,36 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=300&duration=1000&pause=5000&color=9100F7&center=true&vCenter=true&repeat=false&random=false&width=440&height=40&lines=%F0%9F%A7%B8+Tools+%F0%9F%A7%B8)](https://git.io/typing-svg)
   
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  
 </div>
 
 <br>
+<br>
+<br>
 
-![YJ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&hide_title=true&rank_icon=github&theme=dark#gh-dark-mode-only)
+<div align="center">
+ 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=300&duration=1000&pause=5000&color=B200F7&center=true&vCenter=true&repeat=false&random=false&width=440&height=40&lines=%F0%9F%AA%A7+Contact+%F0%9F%AA%A7)](https://git.io/typing-svg)
+
+  <a href="mailto:yejup169@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+
+<div align="center">
+
+  ![YJ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yejuPark&show_icons=true&hide_title=true&rank_icon=github&theme=dark#gh-dark-mode-only)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejuPark&layout=compact&theme=dark#gh-dark-mode-only) 
+</div>
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejuPark&layout=compact&theme=dark#gh-dark-mode-only)
